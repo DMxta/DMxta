@@ -17,7 +17,7 @@
   <img align="center" alt="Deb-HTML"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Deb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Deb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Deb-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Deb-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
  <a href="https://picasion.com/"><img align="right" alt="Deb-gif" src="https://i.picasion.com/pic92/d8aa5f900c60cafb0ee8ca65bede544f.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br />
 </div>
 
